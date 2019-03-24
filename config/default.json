@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://walProd-1:qwe123@waldb-k3oql.gcp.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "banan"
+}
